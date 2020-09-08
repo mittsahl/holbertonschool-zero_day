@@ -1,1 +1,1 @@
-This project is about using git 
+This project is about using git with update
