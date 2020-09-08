@@ -1,1 +1,1 @@
-This project is about the command in vi(m)
+This project is about the commands for vi(m)
