@@ -1,0 +1,1 @@
+This repo is about getting my virtual machine set up with git
